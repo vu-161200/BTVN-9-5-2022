@@ -1,0 +1,9 @@
+﻿  TelnetServer.cpp
+C:\Users\fptshop\source\repos\developNetwork\TelnetServer\TelnetServer.cpp(23,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\TelnetServer\TelnetServer.cpp(50,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\TelnetServer\TelnetServer.cpp(59,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\TelnetServer\TelnetServer.cpp(105,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\fptshop\source\repos\developNetwork\TelnetServer\TelnetServer.cpp(105,16): message : consider using '%lld' in the format string
+C:\Users\fptshop\source\repos\developNetwork\TelnetServer\TelnetServer.cpp(105,16): message : consider using '%Id' in the format string
+C:\Users\fptshop\source\repos\developNetwork\TelnetServer\TelnetServer.cpp(105,16): message : consider using '%I64d' in the format string
+  TelnetServer.vcxproj -> C:\Users\fptshop\source\repos\developNetwork\x64\Debug\TelnetServer.exe
